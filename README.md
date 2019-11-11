@@ -3,20 +3,20 @@
  <img src="SaRa.jpg" width="250" height="300" />
 
 
- ## *Bio*
-* **Name** : Sara Adel Abd Elwahab Abd Elwahab
+* ## *Bio*
+    * **Name** : Sara Adel Abd Elwahab Abd Elwahab
 
-* **Age** : 21
+    * **Age** : 21
 
-* **University** : Cairo
+    * **University** : Cairo
 
-* **Faculty** : Engineering
+    * **Faculty** : Engineering
 
-* **Department** : Systems and Biomedical Engineering
+    * **Department** : Systems and Biomedical Engineering
 
-* **Academic year** : 3rd year
+    * **Academic year** : 3rd year
 
-* **E-mail** : Sara.Wahab98@eng-st.cu.edu.eg
+    * **E-mail** : Sara.Wahab98@eng-st.cu.edu.eg
 
 
 [Resume](https://github.com/sbme-tutorials/sbe201-markdown-resumes-sbe201-2021-team08/blob/master/member4.md)
